@@ -1,7 +1,7 @@
 # BUS_Management_DB_SQL_PY
 
-Bus management SQL apllication 
+Bus management DataBase (SQL) application 
 
-  - Entity-Relational Diagrams 
+  - Entity Relationship Diagram 
   - POSTGRES SQL
   - Python 
